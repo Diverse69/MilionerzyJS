@@ -1,0 +1,183 @@
+{
+	"games" : [
+		{
+		    "questions" : [
+		        {
+		            "question" : "Najpopularniejsze imię nadawane chłopcom w 2020 r. to:",
+		            "content" : [
+		                "Edward",
+		                "Jarosław",
+		                "Zdzisław",
+		                "Antoni"
+		            ],
+		            "correct" : 3
+		        },
+		        {
+		            "question" : "Opłata reprograficzna dotyczy:",
+		            "content" : [
+		                "Kopiowanych ołówków",
+		                "Kopiowanych uszu",
+		                "Papieru A1",
+		                "Papieru A4"
+		            ],
+		            "correct" : 3
+		        },
+		        {
+		            "question" : "Najwięcej glukozy zużywa",
+		            "content" : [
+		                "Trzustka",
+		                "Wątroba",
+		                "Serce",
+		                "Mózg"
+		            ],
+		            "correct" : 3
+		        },
+		        {
+		            "question" : "Jak się okazuje, koty i kotwice mają sporo wspólnego. Jedne i drugie zazwyczaj mają:",
+		            "content" : [
+		                "Uszy, łapy i pazury",
+		                "Oczy i ogony",
+		                "Łaty i pręgi",
+		                "Chód pełen gracji"
+		            ],
+		            "correct" : 0
+		        },
+		        {
+		            "question" : "Człowiek musi przyjmować niektóre aminokwasy z zewnątrz w przeciwieństwie do:",
+		            "content" : [
+		                "Kawii domowej",
+		                "Kawki zwyczajnej",
+		                "Barszczu zwyczajnego",
+		                "Węża zbożowego"
+		            ],
+		            "correct" : 2
+		        },
+				{
+				    "correct": 0,
+				    "content": [
+				        "Boksera",
+				        "Biegacza",
+				        "Skoczka narciarskiego",
+				        "Szermierza"
+				    ],
+				    "question": "Jeśli kaganiec brachycefaliczny, to dla:"
+				},
+				{
+				    "correct": 1,
+				    "content": [
+				        "Cielaka",
+				        "Wieprzka",
+				        "Barana",
+				        "Osła"
+				    ],
+				    "question": "Kabanos mieści słowo kaban, które oznacza:"
+				},
+				{
+				    "correct": 2,
+				    "content": [
+				        "W naczyniach z tworzywa",
+				        "W miejscu",
+				        "Za pomocą komputera",
+				        "Na silikonowych modelach"
+				    ],
+				    "question": "In silico to termin naukowy informujący, że badania zostały przeprowadzone:"
+				},
+				{
+				    "correct": 3,
+				    "content": [
+				        "Kaukaz",
+				        "Jangcy",
+				        "Niasa",
+				        "Sahara"
+				    ],
+				    "question": "Co rozciąga się na terytorium jedenastu państw?"
+				},
+				{
+				    "correct": 2,
+				    "content": [
+				        "W filmach science fiction",
+				        "W antyutopijnych powieściach",
+				        "Tułowia",
+				        "Nerki"
+				    ],
+				    "question": "Z tego wszystkiego najrzadziej spotyka się dystopię:"
+				},
+				{
+				    "correct": 3,
+				    "content": [
+				        "Reguły potasowe",
+				        "Pryncypia sodowe",
+				        "Normy wapniowe",
+				        "Zasady azotowe"
+				    ],
+				    "question": "Adenina, guanina, cytozyna, tymina i uracyl to:"
+				},
+				{
+				    "correct": 1,
+				    "content": [
+				        "Kwietnia",
+				        "Maja",
+				        "Września",
+				        "Listopada"
+				    ],
+				    "question": "Trzydziestego pierwszego dnia którego miesiąca 1859 roku po raz pierwszy zabrzmiał dzwon na londyńskiej wieży Big Ben?"
+				},
+				{
+				    "correct": 2,
+				    "content": [
+				        "Złodziejem drobiu",
+				        "Stadem muflonów",
+				        "Rojem pszczół",
+				        "Niewiernym małżonkiem"
+				    ],
+				    "question": "Artykuł 182 Kodeksu cywilnego reguluje kwestię pościgu za:"
+				},
+				{
+				    "correct": 2,
+				    "content": [
+				        "Płód",
+				        "Gameta żeńska",
+				        "Morula",
+				        "Gameta męska"
+				    ],
+				    "question": "Z tego zestawu formą najbardziej przypomina owoc morwy:"
+				},
+				{
+				    "correct": 0,
+				    "content": [
+				        "Łuku",
+				        "Żołnierskiego płaszcza",
+				        "Cyrkla",
+				        "Liturgicznego świecznika"
+				    ],
+				    "question": "Łęczysko, które składa się z ramion i majdanu, to główny element:"
+				}
+		    ]
+		},
+		{
+		    "questions" : [
+		        {
+		            "question" : "W 1817 r. warszawskie Łazienki Królewskie zostały sprzedane carowi:",
+		            "content" : [
+		                "Iwanowi IV Groźnemu",
+		                "Piotrowi I Wielkiemu",
+		                "Aleksandrowi I Romanowowi",
+		                "Mikołajowi II Romanowowi"
+		            ],
+		            "correct" : 2
+		        },
+		        
+				{
+				    "correct": 2,
+				    "content" : [
+				        "Na tkaninie",
+				        "Na metalu",
+				        "Na drewnie",
+				        "Na murze"
+				    ],
+				    "question": "'Mona Lisa' z Luwru to obraz namalowany:"
+				}
+		    ]
+		}
+	]
+}
