@@ -3,181 +3,180 @@
 		{
 		    "questions" : [
 		        {
-		            "question" : "Najpopularniejsze imię nadawane chłopcom w 2020 r. to:",
+		            "question" : "In what children's game are participants chased by someone designated \"It\"?",
 		            "content" : [
-		                "Edward",
-		                "Jarosław",
-		                "Zdzisław",
-		                "Antoni"
-		            ],
-		            "correct" : 3
-		        },
-		        {
-		            "question" : "Opłata reprograficzna dotyczy:",
-		            "content" : [
-		                "Kopiowanych ołówków",
-		                "Kopiowanych uszu",
-		                "Papieru A1",
-		                "Papieru A4"
-		            ],
-		            "correct" : 3
-		        },
-		        {
-		            "question" : "Najwięcej glukozy zużywa",
-		            "content" : [
-		                "Trzustka",
-		                "Wątroba",
-		                "Serce",
-		                "Mózg"
-		            ],
-		            "correct" : 3
-		        },
-		        {
-		            "question" : "Jak się okazuje, koty i kotwice mają sporo wspólnego. Jedne i drugie zazwyczaj mają:",
-		            "content" : [
-		                "Uszy, łapy i pazury",
-		                "Oczy i ogony",
-		                "Łaty i pręgi",
-		                "Chód pełen gracji"
+		                "Tag",
+		                "Simon Says",
+		                "Charades",
+		                "Hopscotch"
 		            ],
 		            "correct" : 0
 		        },
 		        {
-		            "question" : "Człowiek musi przyjmować niektóre aminokwasy z zewnątrz w przeciwieństwie do:",
+		            "question" : "On a radio, stations are changed by using what control?",
 		            "content" : [
-		                "Kawii domowej",
-		                "Kawki zwyczajnej",
-		                "Barszczu zwyczajnego",
-		                "Węża zbożowego"
+		                "Tuning",
+		                "Volume",
+		                "Bass",
+		                "Treble"
 		            ],
-		            "correct" : 2
+		            "correct" : 0
+		        },
+		        {
+		            "question" : "Which material is most dense?",
+		            "content" : [
+		                "Silver",
+		                "Styrofoam",
+		                "Butter",
+		                "Gold"
+		            ],
+		            "correct" : 3
+		        },
+		        {
+		            "question" : "Which state in the United States is largest by area?",
+		            "content" : [
+		                "Alaska",
+		                "California",
+		                "Texas",
+		                "Hawaii"
+		            ],
+		            "correct" : 0
+		        },
+		        {
+		            "question" : "What is Aurora Borealis commonly known as?",
+		            "content" : [
+		                "Fairy Dust",
+		                "Northern Lights",
+		                "Book of ages",
+		                "a Game of Thrones main character"
+		            ],
+		            "correct" : 1
 		        },
 				{
-				    "correct": 0,
+				    "correct": 3,
 				    "content": [
-				        "Boksera",
-				        "Biegacza",
-				        "Skoczka narciarskiego",
-				        "Szermierza"
+				        "developed the telescope",
+				        "discovered four satellites of Jupiter",
+				        "discovered that the movement of pendulum produces a regular time measurement",
+				        "All of the above"
 				    ],
-				    "question": "Jeśli kaganiec brachycefaliczny, to dla:"
-				},
-				{
-				    "correct": 1,
-				    "content": [
-				        "Cielaka",
-				        "Wieprzka",
-				        "Barana",
-				        "Osła"
-				    ],
-				    "question": "Kabanos mieści słowo kaban, które oznacza:"
-				},
-				{
-				    "correct": 2,
-				    "content": [
-				        "W naczyniach z tworzywa",
-				        "W miejscu",
-				        "Za pomocą komputera",
-				        "Na silikonowych modelach"
-				    ],
-				    "question": "In silico to termin naukowy informujący, że badania zostały przeprowadzone:"
+				    "question": "Galileo was an Italian astronomer who"
 				},
 				{
 				    "correct": 3,
 				    "content": [
-				        "Kaukaz",
-				        "Jangcy",
-				        "Niasa",
-				        "Sahara"
+				        "the infrared light kills bacteria in the body",
+				        "resistance power increases",
+				        "the pigment cells in the skin get stimulated and produce a healthy tan",
+				        "the ultraviolet rays convert skin oil into Vitamin D"
 				    ],
-				    "question": "Co rozciąga się na terytorium jedenastu państw?"
-				},
-				{
-				    "correct": 2,
-				    "content": [
-				        "W filmach science fiction",
-				        "W antyutopijnych powieściach",
-				        "Tułowia",
-				        "Nerki"
-				    ],
-				    "question": "Z tego wszystkiego najrzadziej spotyka się dystopię:"
-				},
-				{
-				    "correct": 3,
-				    "content": [
-				        "Reguły potasowe",
-				        "Pryncypia sodowe",
-				        "Normy wapniowe",
-				        "Zasady azotowe"
-				    ],
-				    "question": "Adenina, guanina, cytozyna, tymina i uracyl to:"
-				},
-				{
-				    "correct": 1,
-				    "content": [
-				        "Kwietnia",
-				        "Maja",
-				        "Września",
-				        "Listopada"
-				    ],
-				    "question": "Trzydziestego pierwszego dnia którego miesiąca 1859 roku po raz pierwszy zabrzmiał dzwon na londyńskiej wieży Big Ben?"
-				},
-				{
-				    "correct": 2,
-				    "content": [
-				        "Złodziejem drobiu",
-				        "Stadem muflonów",
-				        "Rojem pszczół",
-				        "Niewiernym małżonkiem"
-				    ],
-				    "question": "Artykuł 182 Kodeksu cywilnego reguluje kwestię pościgu za:"
-				},
-				{
-				    "correct": 2,
-				    "content": [
-				        "Płód",
-				        "Gameta żeńska",
-				        "Morula",
-				        "Gameta męska"
-				    ],
-				    "question": "Z tego zestawu formą najbardziej przypomina owoc morwy:"
+				    "question": "Exposure to sunlight helps a person improve his health because"
 				},
 				{
 				    "correct": 0,
 				    "content": [
-				        "Łuku",
-				        "Żołnierskiego płaszcza",
-				        "Cyrkla",
-				        "Liturgicznego świecznika"
+				        "a club or a local sport association for remarkable achievements",
+				        "amateur athlete, not necessarily an Olympian",
+				        "National Olympic Committee for outstanding work",
+				        "None of the above"
 				    ],
-				    "question": "Łęczysko, które składa się z ramion i majdanu, to główny element:"
+				    "question": "Sir Thomas Fearnley Cup is awarded to"
+				},
+				{
+				    "correct": 1,
+				    "content": [
+				        "1968",
+				        "1929",
+				        "1901",
+				        "1965"
+				    ],
+				    "question": "Oscar Awards were instituted in"
+				},
+				{
+				    "correct": 2,
+				    "content": [
+				        "1998",
+				        "1989",
+				        "1979",
+				        "1800"
+				    ],
+				    "question": "When did Margaret Thatcher became the first female Prime Minister of Britain?"
+				},
+				{
+				    "correct": 2,
+				    "content": [
+				        "15th April",
+				        "12th December",
+				        "1st May",
+				        "1st August"
+				    ],
+				    "question": "When is the International Workers' Day?"
+				},
+				{
+				    "correct": 2,
+				    "content": [
+				        "1962",
+				        "1963",
+				        "1964",
+				        "1965"
+				    ],
+				    "question": "When did China test their first atomic device?"
+				},
+				{
+				    "correct": 3,
+				    "content": [
+				        "1904",
+				        "1905",
+				        "1908",
+				        "1909"
+				    ],
+				    "question": "When did Commander Robert Peary discover the North Pole?"
+				},
+				{
+				    "correct": 0,
+				    "content": [
+				        "819/sq. km",
+				        "602/sq. km",
+				        "415/sq. km",
+				        "500/sq. km"
+				    ],
+				    "question": "What is the population density of Kerala?"
+				},
+				{
+				    "correct": 1,
+				    "content": [
+				        "4 km",
+				        "25 km",
+				        "500 m to 9 km",
+				        "150 km"
+				    ],
+				    "question": "What is the range of missile 'Akash'?"
 				}
 		    ]
 		},
 		{
 		    "questions" : [
 		        {
-		            "question" : "W 1817 r. warszawskie Łazienki Królewskie zostały sprzedane carowi:",
+		            "question" : "In the U.S., if it's not Daylight Saving Time, it's what?",
 		            "content" : [
-		                "Iwanowi IV Groźnemu",
-		                "Piotrowi I Wielkiemu",
-		                "Aleksandrowi I Romanowowi",
-		                "Mikołajowi II Romanowowi"
+		                "Borrowed time",
+		                "Overtime",
+		                "Standard time",
+		                "Party time"
 		            ],
 		            "correct" : 2
 		        },
-		        
-				{
-				    "correct": 2,
-				    "content" : [
-				        "Na tkaninie",
-				        "Na metalu",
-				        "Na drewnie",
-				        "Na murze"
-				    ],
-				    "question": "'Mona Lisa' z Luwru to obraz namalowany:"
-				}
-				{
+		        {
+		            "question" : "Which part of the body are you most likely to \"stub\"?",
+		            "content" : [
+		                "Toe",
+		                "Knee",
+		                "Elbow",
+		                "Brain"
+		            ],
+		            "correct" : 0
+		        },
+		        {
 		            "question" : "Which country is largest by area?",
 		            "content" : [
 		                "UK",
@@ -773,6 +772,3 @@
 		}
 	]
 }
-		    
-		
-	
